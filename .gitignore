@@ -1,6 +1,8 @@
+# Local state and secrets
 .env
+state.json
+monitor.log
 venv/
+.venv/
 __pycache__/
 *.pyc
-monitor.log
-state.json
